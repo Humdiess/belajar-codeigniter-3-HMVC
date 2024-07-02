@@ -36,3 +36,4 @@ ERROR - 2024-07-02 14:49:23 --> Severity: error --> Exception: Call to undefined
 ERROR - 2024-07-02 14:50:50 --> Severity: error --> Exception: Call to undefined function sidemenu() C:\Users\hmzin\Projects\alphatech\latihan\themes\adminlte\sidemenu.php 9
 ERROR - 2024-07-02 14:50:51 --> Severity: error --> Exception: Call to undefined function sidemenu() C:\Users\hmzin\Projects\alphatech\latihan\themes\adminlte\sidemenu.php 9
 ERROR - 2024-07-02 14:50:53 --> Severity: error --> Exception: Call to undefined function sidemenu() C:\Users\hmzin\Projects\alphatech\latihan\themes\adminlte\sidemenu.php 9
+ERROR - 2024-07-02 16:15:41 --> Severity: Warning --> Undefined variable $title C:\Users\hmzin\Projects\alphatech\latihan\themes\adminlte\layout_single.php 12

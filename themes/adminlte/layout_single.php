@@ -4,9 +4,18 @@
   <?php include_once('sidebar.php'); ?>
 
   <div class="content-wrapper">
-  <button value="halo" onclick="showSidebar()">Halo</button>
-  <button value="halo" onclick="hideSidebar()">Halo</button>
-
+    <div class="content-header">
+      <div class="container">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1 class="m-0 text-dark">
+              hehe
+            </h1>
+          </div>
+          <img src="<?php echo base_url('assets/dist/img/AdminLTELogo.png'); ?>" alt="">
+        </div>
+      </div>
+    </div>
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-lg-12 col-12">
