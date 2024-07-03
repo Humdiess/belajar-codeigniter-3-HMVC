@@ -2,7 +2,7 @@
   <footer class="main-footer">
     <strong>Copyright &copy; 2014-2020 ALPHA TECH.</strong>
     All rights reserved.
-  </footer>
+  </footer> 
 
   <!-- Control Sidebar -->
   <aside class="control-sidebar control-sidebar-dark">
